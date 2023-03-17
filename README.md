@@ -44,6 +44,8 @@ plt.plot(x,y_predicted,color='red')
 plt.show()
 
 
+~~~
+
 
 ![image](https://user-images.githubusercontent.com/94911373/225861114-e7e53144-5179-4334-b2d3-8df3eaa8cde6.png)
 
