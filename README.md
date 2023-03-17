@@ -24,9 +24,29 @@ Developed by:
 RegisterNumber:  
 */
 ```
+import numpy as np
+import matplotlib.pyplot as plt 
+x=np.array(eval(input()))
+y=np.array(eval(input()))
+x_mean=np.mean(x)
+y_mean=np.mean(y)
+num,deno=0,0
+for i in range(len(x)):
+    num+=(x[i]-x_mean)*(y[i]-y_mean)
+    deno+=(x[i]-x_mean)**2
+m = num/deno
+b = y_mean-m*x_mean
+print(m,b)
+y_predicted=m*x+b
+print(y_predicted)
+plt.scatter(x,y)
+plt.plot(x,y_predicted,color='red')
+plt.show()
 
-## Output:
-![best fit line](sam.png)
+
+
+![image](https://user-images.githubusercontent.com/94911373/225861114-e7e53144-5179-4334-b2d3-8df3eaa8cde6.png)
+
 
 
 ## Result:
