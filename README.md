@@ -50,10 +50,7 @@ plt.show()
 
 
 
-
-
-
-![image](https://user-images.githubusercontent.com/94911373/225861114-e7e53144-5179-4334-b2d3-8df3eaa8cde6.png)
+![image](https://user-images.githubusercontent.com/94911373/225861938-95d7be40-f835-4e91-afcc-952c5cd3c1d9.png)
 
 
 
