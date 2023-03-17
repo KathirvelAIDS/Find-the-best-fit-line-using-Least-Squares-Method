@@ -49,8 +49,10 @@ plt.show()
 
 
 
+Output:
 
-![image](https://user-images.githubusercontent.com/94911373/225861938-95d7be40-f835-4e91-afcc-952c5cd3c1d9.png)
+
+![image](https://user-images.githubusercontent.com/94911373/225862196-87ac9954-2970-41b4-85bc-95f5d1baccc8.png)
 
 
 
