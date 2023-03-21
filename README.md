@@ -49,6 +49,11 @@ plt.plot(x,y_pre,color="brown")
 plt.show()
 */
 
+~~~
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/94911373/226519649-3133ad68-c2c0-4b9d-b2c0-dae192efd627.png)
 
