@@ -46,7 +46,7 @@ print(y_pre)
 plt.scatter(x,y)
 plt.plot(x,y_pre,color="brown")
 plt.show()
-
+*/
 
 
 
