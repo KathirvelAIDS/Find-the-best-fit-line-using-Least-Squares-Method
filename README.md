@@ -49,7 +49,6 @@ plt.plot(x,y_pre,color="brown")
 plt.show()
 */
 
-~~~
 
 
 
